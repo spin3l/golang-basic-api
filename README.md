@@ -21,3 +21,8 @@ go run .
  - `GET`    Get a stored book
  - `PUT`    Update a stored book
  - `DELETE` Delete a stored book
+
+
+## Inspiration
+
+Code example from [this video](https://www.youtube.com/watch?v=ID9NZ88JeOE).
