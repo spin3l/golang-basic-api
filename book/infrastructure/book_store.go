@@ -2,8 +2,8 @@ package infrastructure
 
 import (
 	"database/sql"
-	"test-backend/book/application"
-	"test-backend/book/domain"
+	"golang-basic-api/book/application"
+	"golang-basic-api/book/domain"
 )
 
 type store struct {

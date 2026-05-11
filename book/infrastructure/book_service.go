@@ -1,8 +1,8 @@
 package infrastructure
 
 import (
-	"test-backend/book/application"
-	"test-backend/book/domain"
+	"golang-basic-api/book/application"
+	"golang-basic-api/book/domain"
 )
 
 type service struct {

@@ -3,9 +3,9 @@ package main
 import (
 	"database/sql"
 	"fmt"
+	"golang-basic-api/book/infrastructure"
 	"log"
 	"net/http"
-	"test-backend/book/infrastructure"
 
 	_ "github.com/mattn/go-sqlite3"
 )

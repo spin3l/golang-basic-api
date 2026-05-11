@@ -1,6 +1,6 @@
 package application
 
-import "test-backend/book/domain"
+import "golang-basic-api/book/domain"
 
 type BookStore interface {
 	GetAll() ([]*domain.Book, error)

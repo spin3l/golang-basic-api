@@ -1,4 +1,4 @@
-module test-backend
+module golang-basic-api
 
 go 1.24.6
 
